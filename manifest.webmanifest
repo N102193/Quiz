@@ -1,0 +1,10 @@
+{
+  "name": "آزمون من",
+  "short_name": "آزمون من",
+  "start_url": "./quiz_app.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#4f46e5",
+  "lang": "fa",
+  "dir": "rtl"
+}
